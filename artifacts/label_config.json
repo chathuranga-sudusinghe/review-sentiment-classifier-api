@@ -1,0 +1,6 @@
+{
+  "negative": 0,
+  "positive": 1,
+  "max_len": 100,
+  "vocab_size": 5000
+}

@@ -33,10 +33,5 @@ dist/
 # Environment files
 .env
 
-# Artifacts
-artifacts/model.keras
-artifacts/tokenizer.pkl
-artifacts/label_config.json
-
 # Logs
 *.log
